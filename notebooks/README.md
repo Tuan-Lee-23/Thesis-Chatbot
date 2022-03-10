@@ -1,2 +1,3 @@
 - Prepare MOD dataset (json -> csv): https://colab.research.google.com/drive/18YhnpwR8RVskzSVfQap9HEpsBYu343Wx?usp=sharing
 - Prepare Semantic Multimodal Dataset (json -> csv): https://colab.research.google.com/drive/1L-0wCcVyXcX9iErSx7Qt9Dzi6fKa6-8O?usp=sharing
+- Faster RCNN object embedding: https://colab.research.google.com/drive/15TQWUNy0x2eQq6TU87jjeWn8Z9G-n6hI?usp=sharing
